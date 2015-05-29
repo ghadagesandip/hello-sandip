@@ -2,6 +2,7 @@
 
 require_once __DIR__ . '/../vendor/autoload.php'; // Autoload files using Composer autoload
 
-use HelloWorld\SayHello;
+use Sandip\HelloWord\SayHello;
 
-echo SayHello::world();
+$obj = new SayHello();
+echo $obj->world();exit;

@@ -1,6 +1,6 @@
 <?php
 
-namespace HelloWord;
+namespace Sandip\HelloWord;
 
 class SayHello{
 
