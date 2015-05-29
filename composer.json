@@ -12,7 +12,7 @@
      },
      "autoload": {
         "psr-4": {
-            "Sandip\\HelloWorld\\": "src/Sandip/HelloWord"
+            "Sandip\\HelloWorld\\": "src/Sandip/HelloWorld"
         }
     }
 }
